@@ -1,0 +1,12 @@
+{
+  "name": "@tdsoft/commitlint-config",
+  "description": "Shareable commitlint config enforcing the TDSOFT commit convention",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tdsoftpl/commitlint-config.git",
+  "author": "Adrian Celczyński <adrian.celczynski@tdsoft.com>",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}
