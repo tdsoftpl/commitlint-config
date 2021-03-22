@@ -4,10 +4,13 @@
 
 Commitlint checks if your commit messages meet the specified requirements.
 
-Format: `<type>(<scope>): <subject>`
+### Format
+`<type>(<scope>): <subject>`
+
 `<scope>` is optional
 
-Example: `feat: introduce useClipboard hook`
+### Example
+`feat: introduce useClipboard hook`
 
 ## @tdsoft config
 
@@ -27,3 +30,12 @@ Example: `feat: introduce useClipboard hook`
 > Note that in conventional commits' config "style" is used for code
 > formatting. In this config, "style" is used for *UI* styling related
 > commits that do not change business logic.
+
+## How to use this config
+
+Use extends option in `.commitlintrc.json`
+```
+{
+  "extends": ["@tdsoft"]
+}
+```
