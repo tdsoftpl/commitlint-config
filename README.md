@@ -1,4 +1,4 @@
-# @tdsoft/commitlint-config
+# [@tdsoft/commitlint-config](https://www.npmjs.com/package/@tdsoft/commitlint-config)
 
 ## What is commitlint
 
